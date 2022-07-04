@@ -38,3 +38,16 @@ h1{
     background-position: right;
     padding-right: 15%;
 }
+.exprience-ex{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.exprience-item{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 15px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+}
